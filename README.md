@@ -3,6 +3,8 @@
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
 
+<a href="https://github.com/victordevcode21/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true" /></a>
+
 <!--
 **VictorDevCode21/VictorDevCode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
