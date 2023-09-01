@@ -1,4 +1,4 @@
-### Hi, I'm Victor 😎👋
+### Hi, I'm Victor 😎🧑🏻‍💻👋
 ![gitbuhReadme3](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/b481444e-8a97-4dc2-9902-384d5033fe07)
 
 ## My Stats 📈 :
@@ -7,14 +7,14 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true"/>
 </a>
 
-## My social media for work 📱 :
+## My social media for work 💻📲:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-rios-b17888273)
 [![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:victorenrique2002@gmail.com)
 
-## Personal Portfolio 📁:
+## Personal Portfolio 📁🖥️:
 ...
 
-## About me 😃:
+## About me 👦🏻:
 - 🔭 I’m currently working on an E-commerce and some web applications.
 - 📖 I'm Studying Systems engineering on the Unimet in Caracas, Venezuela.
 - 💻 I'm planning to study cybersecurity and cloud soon.
