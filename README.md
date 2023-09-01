@@ -1,6 +1,7 @@
 ### Hi, I'm Victor 😎👨🏻‍💻  👋
 ![gitbuhReadme3](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/b481444e-8a97-4dc2-9902-384d5033fe07)
 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
 
 <!--
 **VictorDevCode21/VictorDevCode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
