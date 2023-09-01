@@ -5,7 +5,9 @@
   <a href="https://github.com/victordevcode21/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true" />
   </a>
-  [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
+  <div>
+    [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
+  </div>
 </div>
 
 - 🔭 I’m currently working on an E-commerce and some web applications.
