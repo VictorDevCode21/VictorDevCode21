@@ -1,5 +1,6 @@
 ### Hi, I'm Victor 😎👨🏻‍💻  👋
-![gitbuhReadme](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/6fbf13f9-b3b5-4e33-881f-dc14ba1c6d50)
+![gitbuhReadme2](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/8d14c40f-d972-4bd3-83f0-274fefbf4d33)
+
 <!--
 **VictorDevCode21/VictorDevCode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
