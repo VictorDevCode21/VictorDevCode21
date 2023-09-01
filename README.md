@@ -1,9 +1,12 @@
 ### Hi, I'm Victor 😎👨🏻‍💻  👋
 ![gitbuhReadme3](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/b481444e-8a97-4dc2-9902-384d5033fe07)
 
-<a href="https://github.com/victordevcode21/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true" /></a>
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/victordevcode21/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true" />
+  </a>
+  [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
+</div>
 
 - 🔭 I’m currently working on an E-commerce and some web applications.
 - 📖 I'm Studying Systems engineering on the Unimet in Caracas, Venezuela.
