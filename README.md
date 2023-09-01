@@ -5,6 +5,12 @@
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats)
 
+- 🔭 I’m currently working on an E-commerce and some web applications.
+- 📖 I'm Studying Systems engineering on the Unimet in Caracas, Venezuela.
+- 💻 I'm planning to study cybersecurity and cloud soon.
+- 💼 I'm looking for remote works as a front-end, back-end or full stack web developer.
+- ⚡ Fun fact: Steve jobs inspired me to study systems engineering.
+
 
 <!--
 **VictorDevCode21/VictorDevCode21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
