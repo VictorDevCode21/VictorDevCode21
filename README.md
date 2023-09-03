@@ -9,7 +9,7 @@
 
 ## My social media for work 💻📲:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-rios-b17888273)
-[![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:victorenrique2002@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:victorrivaswebdev@gmail.com)
 
 ## Personal Portfolio 📁🖥️:
 ...
