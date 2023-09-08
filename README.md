@@ -1,5 +1,5 @@
 ### Hi, I'm Victor 😎🧑🏻‍💻👋
-![githubReadme](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/1303f528-98e8-456a-9c8b-3ec87a6b7bc2)
+![githubReadme](https://github.com/VictorDevCode21/VictorDevCode21/assets/125080641/417df464-8664-404e-97c5-85caaaef4fd1)
 
 ## My Stats 📈 :
 
