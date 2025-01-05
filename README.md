@@ -15,7 +15,7 @@
 victorrivasweb.com
 
 ## About me 👦🏻:
-[![committers.top badge](https://user-badge.committers.top/venezuela/USERNAME.svg)](https://user-badge.committers.top/venezuela/VictorDevCode21
+[![committers.top badge](https://user-badge.committers.top/venezuela/VictorDevCode21.svg)](https://user-badge.committers.top/venezuela/VictorDevCode21
 - 🔭 I’m currently working on an E-commerce and some web applications.
 - 📖 I'm Studying Systems engineering on the Unimet in Caracas, Venezuela.
 - 💻 I'm planning to study cybersecurity and cloud soon.
