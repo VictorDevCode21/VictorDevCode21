@@ -3,9 +3,7 @@
 
 ## My Stats 📈 :
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordevcode21)](https://github.com/victordevcode21/github-readme-stats) <a href="https://github.com/victordevcode21/github-readme-stats" >
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevcode21&layout=compact&theme=jolly&hide_border=true"/>
-</a>
+[![Victor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VictorDevCode21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/VictorDevCode21/github-readme-stats#gh-dark-mode-only)
 
 ## My social media for work 💻📲:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rivas-2a146328b/)
